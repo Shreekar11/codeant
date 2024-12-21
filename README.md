@@ -22,7 +22,7 @@ Before running this project, make sure you have installed:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/irfxnpatell/codeant-assignment.git
+git clone https://github.com/Shreekar11/codeant.git
 cd codeant-assignment
 ```
 
@@ -46,7 +46,7 @@ yarn dev
 
 1. Clone the repository
 ```bash
-git clone https://github.com/irfxnpatell/codeant-assignment.git
+git clone https://github.com/Shreekar11/codeant.git
 cd codeant-assignment
 ```
 
