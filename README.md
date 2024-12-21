@@ -23,7 +23,7 @@ Before running this project, make sure you have installed:
 1. Clone the repository
 ```bash
 git clone https://github.com/Shreekar11/codeant.git
-cd codeant-assignment
+cd codeant
 ```
 
 2. Install dependencies
@@ -47,7 +47,7 @@ yarn dev
 1. Clone the repository
 ```bash
 git clone https://github.com/Shreekar11/codeant.git
-cd codeant-assignment
+cd codeant
 ```
 
 2. Build and start the Docker containers
