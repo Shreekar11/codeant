@@ -109,7 +109,7 @@ export default function RepositoriesPage() {
                     Support
                   </Link>
                   <Link
-                    href="#"
+                    href="/"
                     className="flex items-center gap-3 rounded-lg px-3 py-2 hover:bg-secondary"
                   >
                     <LogOut className="h-4 w-4" />
@@ -179,7 +179,7 @@ export default function RepositoriesPage() {
             Support
           </Link>
           <Link
-            href="#"
+            href="/"
             className="flex items-center gap-3 rounded-lg px-3 py-2 hover:bg-secondary"
           >
             <LogOut className="h-4 w-4" />
